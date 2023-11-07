@@ -1,0 +1,132 @@
+2023-07-01 17:14:38 INFO  BaseClass:37 - Navigating to URL: https://www.automationexercise.com/
+2023-07-01 17:14:41 INFO  BaseClass:42 - Navigated to URL: https://www.automationexercise.com/
+2023-07-01 17:14:41 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:41 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:42 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:42 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:42 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:42 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:43 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:43 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:44 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:44 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:44 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:44 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:45 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:45 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:45 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:45 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:46 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:46 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:46 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:47 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:47 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:47 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:48 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:48 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:48 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:48 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:49 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:49 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:49 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:49 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:50 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:50 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:51 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:51 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:51 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:51 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:52 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:52 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:52 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:52 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:53 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:53 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:54 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:54 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:54 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:54 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:55 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:55 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:55 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:55 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:56 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:57 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:57 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:14:57 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women
+2023-07-01 17:14:57 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women
+2023-07-01 17:16:45 INFO  BaseClass:37 - Navigating to URL: https://www.automationexercise.com/
+2023-07-01 17:16:49 INFO  BaseClass:42 - Navigated to URL: https://www.automationexercise.com/
+2023-07-01 17:16:49 INFO  BaseClass:13 - Test execution started for validateTitle *************************************
+2023-07-01 17:16:49 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:49 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:49 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:49 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:49 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:49 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:50 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (f3f27e5d7c7a0db34e6753c0b3e0658e)] -> css selector: h4[class='panel-title'] a]
+2023-07-01 17:16:50 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:50 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (f3f27e5d7c7a0db34e6753c0b3e0658e)] -> css selector: div#Women>div>ul>li:nth-of-type(2)]
+2023-07-01 17:16:50 INFO  BaseClass:15 - Retrying failed test !!!!! validateTitle for 1 times
+2023-07-01 17:16:50 INFO  BaseClass:29 - Test validateTitle Skipped #######################################
+2023-07-01 17:16:52 INFO  BaseClass:37 - Navigating to URL: https://www.automationexercise.com/
+2023-07-01 17:16:55 INFO  BaseClass:42 - Navigated to URL: https://www.automationexercise.com/
+2023-07-01 17:16:56 INFO  BaseClass:13 - Test execution started for validateTitle *************************************
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:16:56 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (060c27bb44fe0b2e2928e38b1c8a905e)] -> css selector: h4[class='panel-title'] a]
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:80 - Finding Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:85 - Found Element: By.cssSelector: div#Women>div>ul>li:nth-of-type(2)
+2023-07-01 17:16:56 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (060c27bb44fe0b2e2928e38b1c8a905e)] -> css selector: div#Women>div>ul>li:nth-of-type(2)]
+2023-07-01 17:16:56 INFO  BaseClass:15 - Retrying failed test !!!!! validateTitle for 2 times
+2023-07-01 17:16:56 INFO  BaseClass:23 - Test validateTitle Failed !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+2023-07-01 17:16:56 INFO  BaseClass:142 - Test has failed!!!!! Taking screen shot
+2023-07-01 17:16:57 INFO  BaseClass:147 - Test has failed!!!!! Screen shot taken
+2023-07-01 17:22:11 INFO  BaseClass:37 - Navigating to URL: https://www.automationexercise.com/
+2023-07-01 17:22:15 INFO  BaseClass:42 - Navigated to URL: https://www.automationexercise.com/
+2023-07-01 17:22:15 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-07-01 17:22:15 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (c2c35e2ff7e40d32b72c8745d783ab8b)] -> css selector: h4[class='panel-title'] a]
+2023-07-01 17:22:15 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:15 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-07-01 17:22:16 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (c2c35e2ff7e40d32b72c8745d783ab8b)] -> xpath: //a[text()='Tops ']]
+2023-11-07 13:26:06 INFO  BaseClass:37 - Navigating to URL: https://www.automationexercise.com/
+2023-11-07 13:26:12 INFO  BaseClass:42 - Navigated to URL: https://www.automationexercise.com/
+2023-11-07 13:26:12 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:12 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:13 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:13 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:13 INFO  BaseClass:80 - Finding Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:13 INFO  BaseClass:85 - Found Element: By.cssSelector: h4[class='panel-title'] a
+2023-11-07 13:26:13 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (e6d8cf8b16e2f141801b57bf87196992)] -> css selector: h4[class='panel-title'] a]
+2023-11-07 13:26:13 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:80 - Finding Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:85 - Found Element: By.xpath: //a[text()='Tops ']
+2023-11-07 13:26:13 INFO  BaseClass:96 - Clicked on: [[ChromeDriver: chrome on WINDOWS (e6d8cf8b16e2f141801b57bf87196992)] -> xpath: //a[text()='Tops ']]
